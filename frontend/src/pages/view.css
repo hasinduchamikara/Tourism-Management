@@ -1,0 +1,14 @@
+.tbl {
+    width: 90%;
+    padding-bottom: 30px;
+    margin: auto;
+  }
+
+  #btnbook{
+    margin-left: 20px;
+  }
+
+  #btnrep{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
